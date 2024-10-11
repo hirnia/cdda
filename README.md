@@ -1,17 +1,3 @@
----
-output: github_document
----
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
-)
-options(tibble.print_min = 5, tibble.print_max = 5)
-```
 ## NOTE
 Here, `cdda` is a toy package of a larger package `dda`. For full `dda` functions, visit github.com/wwiedermann.
 
