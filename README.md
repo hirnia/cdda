@@ -1,5 +1,5 @@
 ## NOTE
-Here, `cdda` is a toy package of a larger package `dda`. For full `dda` functions, visit github.com/wwiedermann.
+Here, `cdda` is a test package of a larger package `dda`. For full `dda` functions (coming soon), visit github.com/wwiedermann.
 
 ## Overview
 
